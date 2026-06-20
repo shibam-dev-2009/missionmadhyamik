@@ -6,7 +6,7 @@ function Footer() {
     <div className='footer'>
         <div className="greet">
             <img src={assets.heart} alt="heart" />
-            <p>Made with love in kolkata and made by Shibam Ghosh (Creative Studio)</p>
+            <p>Made with love in Kolkata, Designed & Developed by Shibam Ghosh Creative Studio</p>
         </div>
         <p>Mission Uchcha Madhyamik</p>
         <p>This site is under devolopement</p>
